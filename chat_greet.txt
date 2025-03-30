@@ -1,0 +1,8 @@
+Welcome to the AI Chatbot!
+
+Hello! I am your AI-powered chatbot, here to assist you with your questions regarding transformers and Attention is all you need. 
+The challenge here is to restrict questions only to the knowledge to Attention is all you need by Vaswani et all!
+
+Type "exit" or "quit" to end the conversation.
+
+Let's get started! Ask me why attention is all you need!?
